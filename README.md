@@ -79,6 +79,6 @@ Explore additional capabilities with the Gemini API! This bonus notebook covers 
 
 ---
 
-For links refer to Resources.docx
+For links refer to [Resources](./Resources.docx)
 
 Happy Learning! 🎓
